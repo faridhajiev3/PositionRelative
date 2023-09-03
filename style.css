@@ -50,4 +50,24 @@ section {
 #time .box .order {
   position: absolute;
   left: 200px;
+}
+
+#space .box {
+  position: relative;
+}
+#space .box .minibox {
+  border: solid #e29fd9;
+  width: 160px;
+  height: 160px;
+  margin: 10px 0;
+  background-color: #e29fd9;
+}
+#space .box .minibox h1 {
+  color: white;
+  padding: 10px;
+}
+#space .box .line {
+  position: absolute;
+  left: 370px;
+  top: 480px;
 }/*# sourceMappingURL=style.css.map */
