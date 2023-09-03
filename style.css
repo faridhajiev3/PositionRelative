@@ -70,4 +70,27 @@ section {
   position: absolute;
   left: 370px;
   top: 480px;
+}
+
+#care .box p {
+  width: 600px;
+  font-size: 16px;
+  line-height: 1.1;
+}
+#care .box .minibox {
+  position: relative;
+  border: solid #e0a1e2;
+  width: 160px;
+  height: 160px;
+  margin: 10px 0 0 10px;
+  background-color: #e0a1e2;
+}
+#care .box .minibox h1 {
+  color: white;
+  padding: 10px;
+}
+#care .box .add {
+  position: fixed;
+  right: 10px;
+  bottom: 480px;
 }/*# sourceMappingURL=style.css.map */
