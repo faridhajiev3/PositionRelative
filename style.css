@@ -31,4 +31,23 @@ section {
 #demo .box .port {
   position: absolute;
   left: 210px;
+}
+
+#time .box {
+  position: relative;
+}
+#time .box .minibox {
+  border: solid #67a081;
+  width: 160px;
+  height: 160px;
+  margin: 10px 0;
+  background-color: #67a081;
+}
+#time .box .minibox h1 {
+  color: white;
+  padding: 10px;
+}
+#time .box .order {
+  position: absolute;
+  left: 200px;
 }/*# sourceMappingURL=style.css.map */
